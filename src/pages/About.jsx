@@ -33,7 +33,7 @@ const SectionTwo = () => {
     <div className="bg-gray-200 p-8">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-4">
         <div className="bg-white p-4 rounded-lg shadow-md flex items-center justify-center md:justify-start space-x-4 cursor-pointer transition-transform duration-300 transform hover:-rotate-6">
-          <img className="h-auto w-64 md:w-96 rounded-full" src={Riya} alt="Profile" />
+          <img className="h-auto w-64 md:w-96" src={Riya} alt="Profile" />
         </div>
         <div className="bg-white p-4 rounded-lg shadow-md flex flex-col items-center md:items-start space-y-4 cursor-pointer transition-transform duration-300 transform hover:-rotate-6">
           <div className="text-center md:text-left">
