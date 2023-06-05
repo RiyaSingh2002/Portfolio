@@ -7,7 +7,6 @@ import email from "../assets/email.png";
 import git from "../assets/git.png";
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 // import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
-
 const SectionOne = () => {
   return (
     <section className="bg-gradient-to-r from-white to-purple-100 text-white py-16">
